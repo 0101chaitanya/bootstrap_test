@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/bootstrap_test/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/bootstrap_test/static/js/main.b162204c.chunk.js",
+    "main.js.map": "/bootstrap_test/static/js/main.b162204c.chunk.js.map",
+    "runtime-main.js": "/bootstrap_test/static/js/runtime-main.a87fab94.js",
+    "runtime-main.js.map": "/bootstrap_test/static/js/runtime-main.a87fab94.js.map",
+    "static/js/2.8ed73198.chunk.js": "/bootstrap_test/static/js/2.8ed73198.chunk.js",
+    "static/js/2.8ed73198.chunk.js.map": "/bootstrap_test/static/js/2.8ed73198.chunk.js.map",
+    "index.html": "/bootstrap_test/index.html",
+    "static/css/main.6dea0f05.chunk.css.map": "/bootstrap_test/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.8ed73198.chunk.js.LICENSE.txt": "/bootstrap_test/static/js/2.8ed73198.chunk.js.LICENSE.txt",
+    "static/media/clothes-svgrepo-com.520055e0.svg": "/bootstrap_test/static/media/clothes-svgrepo-com.520055e0.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a87fab94.js",
+    "static/js/2.8ed73198.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.b162204c.chunk.js"
+  ]
+}
